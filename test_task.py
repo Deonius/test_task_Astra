@@ -10,6 +10,8 @@
 #  • вывести общий объем внешнего устройства
 #  • вывести список созданных iso файлов вида: iso_name <> iso_size <> md5sum
 
+# Запуск через terminal, test_task.py /dev %
+
 import argparse
 import hashlib
 import logging
